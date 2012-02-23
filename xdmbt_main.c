@@ -6,7 +6,7 @@
 #include "shutdown_out.xpm"
 
 /* the colors, use X11 named color */
-#define XC_BACKGROUND "black"
+#define XC_BACKGROUND "darkgreen"
 #define XC_FOREGROUND "white"
 #define XC_SELECTED   "red"
 
