@@ -2,7 +2,7 @@
 static char * shutdown_out_xpm[] = {
 "64 64 18 1",
 " 	c None",
-".	c #000000",
+".	c #006400",
 "+	c #181917",
 "@	c #DBDDDA",
 "#	c #FDFFFC",
