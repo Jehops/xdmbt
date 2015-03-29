@@ -1,4 +1,4 @@
-#ifndef __XDMBT_H__
+#ifndef __XDMBT__H__
 #define __XDMBT__H__
 
 /* to create you own artwork, modify xc_main.c */
